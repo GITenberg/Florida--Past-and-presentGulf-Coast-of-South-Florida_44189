@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42626
     wikipedia: http://en.wikipedia.org/wiki/Samuel_C._Upham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44189#Florida--Past-and-presentGulf-Coast-of-South-Florida
 gutenberg_issued: '2013-11-15'
 gutenberg_type: Text
 identifiers:
